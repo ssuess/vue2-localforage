@@ -4,7 +4,7 @@ A simple Vue plugin wrapped from localForage.
 ### Install
 
 ```bash
-npm install vue-localforage
+npm install vue2-localforage
 ```
 
 ```js
