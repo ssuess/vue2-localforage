@@ -1,5 +1,5 @@
 /*!
- * vue2-localforage v0.1
+ * vue2-localforage v0.1.0
  * ssuess
  * Released under the MIT License.
  */
