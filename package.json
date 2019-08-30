@@ -1,6 +1,6 @@
 {
-  "name": "vue-localforage",
-  "version": "0.2.4",
+  "name": "vue2-localforage",
+  "version": "0.1",
   "description": "A simple Vue plugin wrapped from localForage.",
   "main": "vue-localforage.js",
   "scripts": {
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shidianxia/vue-localforage.git"
+    "url": "git+https://github.com/ssuess/vue2-localforage.git"
   },
   "keywords": [
     "Vue",
     "localForage"
   ],
-  "author": "shidianxia",
+  "author": "ssuess",
   "dependencies": {
-    "vue": "^1.0.20",
-    "localforage": "^1.4.0"
+    "vue": "^2.6.10",
+    "localforage": "^1.7.3"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shidianxia/vue-localforage/issues"
+    "url": "https://github.com/ssuess/vue2-localforage/issues"
   },
-  "homepage": "https://github.com/shidianxia/vue-localforage#readme"
+  "homepage": "https://github.com/ssuess/vue2-localforage#readme"
 }
