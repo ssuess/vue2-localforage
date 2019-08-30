@@ -67,6 +67,6 @@ function VueLocalForage (Vue) {
   })
 }
 
-VueLocalForage.version = '0.2.4'
+VueLocalForage.version = '0.1'
 
 module.exports = VueLocalForage
