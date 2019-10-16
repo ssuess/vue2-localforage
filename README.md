@@ -8,7 +8,7 @@ npm install https://github.com/ssuess/vue2-localforage.git
 ```
 
 ```js
-import VueLocalForage from 'vue-localforage'
+import VueLocalForage from 'vue2-localforage'
 Vue.use(VueLocalForage)
 ```
 
