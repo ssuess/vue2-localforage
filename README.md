@@ -1,4 +1,4 @@
-# vue-localforage
+# vue2-localforage
 A simple Vue plugin wrapped from localForage.
 
 ### Install
