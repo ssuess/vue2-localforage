@@ -1,6 +1,6 @@
 {
   "name": "vue2-localforage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple Vue plugin wrapped from localForage.",
   "main": "vue2-localforage.js",
   "scripts": {
@@ -16,8 +16,8 @@
   ],
   "author": "ssuess",
   "dependencies": {
-    "vue": "^2.6.10",
-    "localforage": "^1.7.3"
+    "vue": "^2.6.11",
+    "localforage": "^1.7.4"
   },
   "license": "MIT",
   "bugs": {
